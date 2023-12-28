@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=doo620)](https://solved.ac/doo620)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-hunc&layout=compact&theme=onedark)
+
+
 <!--
 **ji-hunc/ji-hunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
