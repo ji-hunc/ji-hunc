@@ -1,7 +1,11 @@
 ## 👋 About Me
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=doo620)](https://solved.ac/doo620)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-hunc&layout=compact&theme=onedark)
+<div>
+  <a href="https://solved.ac/doo620">
+    <img height="170" src="http://mazassumnida.wtf/api/generate_badge?boj=doo620" alt="Solved.ac Profile"/>
+  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-hunc&layout=compact" alt="Top Langs"/>
+</div>
 
 <br/>
 
