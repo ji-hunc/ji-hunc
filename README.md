@@ -29,6 +29,7 @@
   <div style="display: flex; gap: 6px;">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b">
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
   </div>
   <div style="display: flex; gap: 6px;">
